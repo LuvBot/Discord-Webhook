@@ -1,0 +1,32 @@
+{
+  "weblink": "https://www.speedrun.com/aac#Campaign_Run",
+  "game": "Assault Android Cactus",
+  "category": "Campaign Run",
+  "level": null,
+  "platform": null,
+  "region": null,
+  "emulators": null,
+  "video-only": false,
+  "timing": "real-time",
+  "values": { },
+  "runs": [{
+    "place": 1,
+    "run": <run>
+  }, {
+    "place": 2,
+    "run": <run>
+  }, {
+    "place": 2,
+    "run": <run>
+  }, {
+    "place": 4,
+    "run": <run>
+  }],
+  "links": [{
+    "rel": "game",
+    "uri": "http://www.speedrun.com/api/v1/games/k6qrzm1g"
+  }, {
+    "rel": "category",
+    "uri": "http://www.speedrun.com/api/v1/categories/jdr3y0d6"
+  }]
+}
